@@ -14,8 +14,9 @@ const Navbar = () => {
 
   return (
     <div className={styles.container}>
-      <Link to="/home">
+      <Link to="/home" className={styles.logo}>
         <h1>Products</h1>
+        <p>Olá, Fulano!</p>
       </Link>
 
       <ul>
