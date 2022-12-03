@@ -7,14 +7,15 @@
   justify-content: space-between;
 
   box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-  border: 1px solid #ebebeb;
-  background: #fff;
+  /* border-bottom: 1px solid #ebebeb; */
+  background: #f9ca24;
 
   padding: 0 30px;
 }
 
 .container h1 {
-  color: #f9ca24;
+  /* color: #f9ca24; */
+  font-size: 1.7rem;
 }
 
 .container ul {
